@@ -1,0 +1,11 @@
+name: use
+description: use - Flutter SDK for identity management platform
+version: 0.0.0
+repository: https://github.com/odroe/use
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
