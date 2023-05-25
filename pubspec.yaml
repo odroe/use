@@ -1,5 +1,6 @@
 name: use
-description: use - Flutter SDK for identity management platform
+description: ->
+  Use - A cost-effective open source user identity management platform
 version: 0.0.0
 repository: https://github.com/odroe/use
 
